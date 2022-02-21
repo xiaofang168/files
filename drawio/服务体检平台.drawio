@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-21T03:31:51.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="pEajK8J2ocL98feY8TZh" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-21T03:34:03.125Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="6KYwIemtI__RtJsst4pb" version="16.6.1" type="github">
   <diagram id="uxIiwGRYE8ldoXiBOYKt" name="Page-1">
     <mxGraphModel dx="926" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="RafLnntqBboa3OTIYfcQ-14" value="故障记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="199" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RafLnntqBboa3OTIYfcQ-15" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="RafLnntqBboa3OTIYfcQ-15" value="依赖中间检指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="259" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RafLnntqBboa3OTIYfcQ-16" value="根因推荐" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
