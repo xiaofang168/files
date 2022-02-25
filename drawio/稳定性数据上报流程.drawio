@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T11:53:22.580Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="kxg8CO-z3v-hkfFZ_i-q" compressed="false" version="16.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-25T02:11:51.123Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="nN12y9duLoxvsWlTF_uQ" compressed="false" version="16.6.3" type="github" pages="2">
   <diagram id="pBcjqEdFsgfQmg1a2mWG" name="Page-1">
     <mxGraphModel dx="926" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="LMv_qMbZr2J3lBFjA7qK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="A6NbXT8_dKEW4dwMow8V-27" source="A6NbXT8_dKEW4dwMow8V-9" target="A6NbXT8_dKEW4dwMow8V-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="A6NbXT8_dKEW4dwMow8V-9" value="获取数据采集模版" style="rounded=0;whiteSpace=wrap;html=1;" parent="A6NbXT8_dKEW4dwMow8V-27" vertex="1">
+        <mxCell id="A6NbXT8_dKEW4dwMow8V-9" value="获取数据上报模版" style="rounded=0;whiteSpace=wrap;html=1;" parent="A6NbXT8_dKEW4dwMow8V-27" vertex="1">
           <mxGeometry x="35" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LMv_qMbZr2J3lBFjA7qK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="A6NbXT8_dKEW4dwMow8V-27" source="A6NbXT8_dKEW4dwMow8V-10" target="LMv_qMbZr2J3lBFjA7qK-2" edge="1">
@@ -67,7 +67,7 @@
         <mxCell id="LMv_qMbZr2J3lBFjA7qK-1" value="SDK jar包生成" style="rounded=0;whiteSpace=wrap;html=1;" parent="A6NbXT8_dKEW4dwMow8V-31" vertex="1">
           <mxGeometry x="40" y="100" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A6NbXT8_dKEW4dwMow8V-13" value="数据采集模版定义" style="rounded=0;whiteSpace=wrap;html=1;" parent="A6NbXT8_dKEW4dwMow8V-31" vertex="1">
+        <mxCell id="A6NbXT8_dKEW4dwMow8V-13" value="数据采上报版定义" style="rounded=0;whiteSpace=wrap;html=1;" parent="A6NbXT8_dKEW4dwMow8V-31" vertex="1">
           <mxGeometry x="40" y="30" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LMv_qMbZr2J3lBFjA7qK-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="A6NbXT8_dKEW4dwMow8V-31" source="A6NbXT8_dKEW4dwMow8V-13" target="LMv_qMbZr2J3lBFjA7qK-1" edge="1">
