@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T07:38:44.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="duTPIgidA9VE37QS5akb" compressed="false" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-03-01T12:00:08.620Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="UqfSj8kZsEKd5a4nI9VK" compressed="false" version="16.6.4" type="github" pages="3">
   <diagram id="pBcjqEdFsgfQmg1a2mWG" name="Page-1">
     <mxGraphModel dx="926" dy="3793" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -244,6 +244,50 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5IWlQcS8cEQn7fGy_ZMK" name="第 3 页">
+    <mxGraphModel dx="926" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="AV51641QXDecWURRPgKn-0" />
+        <mxCell id="AV51641QXDecWURRPgKn-1" parent="AV51641QXDecWURRPgKn-0" />
+        <mxCell id="AV51641QXDecWURRPgKn-2" value="上报数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AV51641QXDecWURRPgKn-1">
+          <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jMibhR6LVHkm1ogZSTY-0" value="解析数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AV51641QXDecWURRPgKn-1">
+          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jMibhR6LVHkm1ogZSTY-1" value="判断是否是定时报警器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AV51641QXDecWURRPgKn-1">
+          <mxGeometry x="200" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jMibhR6LVHkm1ogZSTY-2" value="解析数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AV51641QXDecWURRPgKn-1">
+          <mxGeometry x="200" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jMibhR6LVHkm1ogZSTY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AV51641QXDecWURRPgKn-1" source="7jMibhR6LVHkm1ogZSTY-3" target="7jMibhR6LVHkm1ogZSTY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jMibhR6LVHkm1ogZSTY-3" value="启动初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AV51641QXDecWURRPgKn-1">
+          <mxGeometry x="200" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jMibhR6LVHkm1ogZSTY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="AV51641QXDecWURRPgKn-1" source="7jMibhR6LVHkm1ogZSTY-4" target="7jMibhR6LVHkm1ogZSTY-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jMibhR6LVHkm1ogZSTY-4" value="是否包含定时报警器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AV51641QXDecWURRPgKn-1">
+          <mxGeometry x="360" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jMibhR6LVHkm1ogZSTY-5" value="放入报警调度队列" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="AV51641QXDecWURRPgKn-1">
+          <mxGeometry x="680" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jMibhR6LVHkm1ogZSTY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="AV51641QXDecWURRPgKn-1" source="7jMibhR6LVHkm1ogZSTY-6" target="7jMibhR6LVHkm1ogZSTY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jMibhR6LVHkm1ogZSTY-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="AV51641QXDecWURRPgKn-1">
+          <mxGeometry x="520" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jMibhR6LVHkm1ogZSTY-8" value="是" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AV51641QXDecWURRPgKn-1">
+          <mxGeometry x="629" y="100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
